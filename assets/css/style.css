@@ -1,0 +1,29 @@
+/**********************************
+GLOBAL SETTINGS
+***********************************/
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  text-align: center;
+  font-family: 'Verdana', sans-serif;
+  color: #fff;
+  background: #000;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 50px;
+}
+
+
+/**********************************
+LINK STYLES
+***********************************/
+
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
