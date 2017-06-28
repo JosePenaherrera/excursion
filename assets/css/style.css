@@ -7,6 +7,7 @@ GLOBAL SETTINGS
 }
 
 body {
+  margin: 20px;
   text-align: center;
   font-family: 'Verdana', sans-serif;
   color: #fff;
@@ -16,6 +17,21 @@ body {
 h1 {
   font-weight: bold;
   font-size: 50px;
+}
+
+h2 {
+  font-weight: 700;
+  font-size: 42px;
+}
+
+p {
+  font-size: 21px;
+  color: gray;
+}
+
+footer {
+  text-align: right;
+  color: gray;
 }
 
 
